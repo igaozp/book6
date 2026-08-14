@@ -287,7 +287,7 @@ and some [archived diagrams](https://web.archive.org/web/20000412004245/http://w
 
 
 \[[draft-thain-ipv8](https://datatracker.ietf.org/doc/draft-thain-ipv8/)\]
-(2026)
+(2026) - [Delightful implementation news](https://goonhost.rocks/blog/implementing-ipv8-internet-draft)
 
 \[[draft-hause-asip](https://datatracker.ietf.org/doc/draft-hause-asip/)\]
 (2026)
